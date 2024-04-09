@@ -1,3 +1,3 @@
 "# JavascriptMiniProjects" 
 
-#https://jsweather-app.surge.sh/
+<p>1. Weather app</p>
